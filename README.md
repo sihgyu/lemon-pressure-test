@@ -1,2 +1,11 @@
-# lemon-pressure-test
-lemon-first use to pressure test
+[toc]
+### 项目名称
+    柠檬第一波---这次只有java
+### 项目结构
+#### lemon-core 
+    核心逻辑写在这里
+#### lemon-test
+    模拟需要压测的接口
+### 使用
+    + 分别打jar包即可，也可以将整个项目打成jar包或者war包，但是服务器上只需要扔核心包即可
+  
